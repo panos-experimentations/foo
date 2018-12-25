@@ -6,7 +6,7 @@
  * Time: 12:09 AM
  */
 
-namespace panos-zamos\foo;
+namespace Panos\Foo;
 
 
 class Bar
