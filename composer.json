@@ -1,6 +1,6 @@
 {
     "name": "panos-zamos/foo",
-    "description": "foo component test",
+    "description": "Composer private package test",
     "license": "MIT",
     "autoload": {
         "psr-4": {
