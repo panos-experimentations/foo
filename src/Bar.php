@@ -14,6 +14,6 @@ class Bar
 
     static function eureka()
     {
-        die('Eureka');
+        die('Eureka2');
     }
 }
